@@ -1,4 +1,5 @@
-Risk Detection System Documentation
+#Risk Detection System Documentation
+
 📺 Watch Demo Video
 
 Welcome to the Risk Detection System documentation. This system analyzes Slack conversations to identify potential risks that might be buried or downplayed in engineering discussions.
